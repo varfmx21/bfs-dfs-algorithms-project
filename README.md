@@ -1,6 +1,3 @@
-Here's the content for `README.md` that you can copy and paste:
-
-```markdown
 # DNA Graph Search Project
 
 This project implements a system to read a list of people from a text file, create a graph based on DNA similarity using the Hamming distance, and perform searches using Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms to find a person with a target DNA sequence.
@@ -15,13 +12,12 @@ This project implements a system to read a list of people from a text file, crea
 
 - A C++ compiler supporting C++11 or later.
 - Input data file `people.txt` with each line formatted as:
-  ```
-  FirstName,LastName,Address,DNA,City,Phone
-  ```
-  Example:
-  ```
-  John,Wilson,819 Main St,YNFBMJWGFD,New York,555-1074-1504
-  ```
+
+FirstName,LastName,Address,DNA,City,Phone
+
+Example:
+John,Wilson,819 Main St,YNFBMJWGFD,New York,555-1074-1504
+
 
 ## Files
 
@@ -42,8 +38,8 @@ The graph is constructed using an adjacency matrix where each node represents a 
 
 - **Hamming Distance Calculation**: The number of differing characters between two strings of equal length.
 - **Adjacency Matrix Creation**:
-  - For each pair of people, the Hamming distance between their DNA sequences is calculated.
-  - An edge is created (value `1` in the matrix) if the distance is within the threshold; otherwise, the value is `0`.
+- For each pair of people, the Hamming distance between their DNA sequences is calculated.
+- An edge is created (value `1` in the matrix) if the distance is within the threshold; otherwise, the value is `0`.
 
 ### Graph Search Algorithms
 
@@ -63,49 +59,38 @@ The graph is constructed using an adjacency matrix where each node represents a 
 
 ```cpp
 void leerPersonas(const string filename, vector<Persona> &personas);
-```
-- Reads person data from a text file and stores it in a vector of `Persona`.
 
-#### Hamming Distance
+Reads person data from a text file and stores it in a vector of Persona.
 
-```cpp
 int hammingDistance(const string &s1, const string &s2);
-```
-- Calculates the Hamming distance between two DNA sequences.
 
-#### Creating the Adjacency Matrix
+Calculates the Hamming distance between two DNA sequences.
 
-```cpp
 vector<vector<int>> crearMatriz(const vector<Persona> &personas, int max);
-```
-- Creates a graph representation based on DNA similarity.
 
-#### BFS and DFS
+Creates a graph representation based on DNA similarity.
 
-```cpp
 int BFS(const vector<vector<int>> &matriz, const vector<Persona> &personas, const string &adnObjetivo);
 int DFS(const vector<vector<int>> &matriz, const vector<Persona> &personas, const string &adnObjetivo);
-```
-- Perform graph search to find a person with the target DNA.
 
-### Example Usage
+Perform graph search to find a person with the target DNA.
 
-1. Place your data in `people.txt`.
-2. Compile and run the code:
+Example Usage
+Place your data in people.txt.
 
-   ```bash
-   g++ main.cpp -o dna_search
-   ./dna_search
-   ```
+Compile and run the code:
 
-3. The program reads the input data, constructs the graph, and runs BFS and DFS to find a person with the specified DNA.
+g++ main.cpp -o dna_search
+./dna_search
 
-### Measuring Search Time
+The program reads the input data, constructs the graph, and runs BFS and DFS to find a person with the specified DNA.
 
-The time taken by BFS and DFS to find the target DNA is measured using the `<chrono>` library and displayed in seconds.
+Measuring Search Time
+The time taken by BFS and DFS to find the target DNA is measured using the <chrono> library and displayed in seconds.
 
-## Future Improvements
+Future Improvements
+Support for more complex graph structures or weighted graphs.
+Additional search algorithms for comparison.
+Optimized graph traversal for larger datasets.
 
-- Support for more complex graph structures or weighted graphs.
-- Additional search algorithms for comparison.
-- Optimized graph traversal for larger datasets.
+Copy this code to your `README.md` file for your project documentation.
