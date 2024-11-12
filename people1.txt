@@ -1,0 +1,100 @@
+Lucy,Jones,593 Main St,AJUMFUUEOM,Chicago,555-1202-1792
+Bob,Miller,96 Main St,ZTDBFBRFTL,Phoenix,555-1674-1164
+David,Smith,497 Main St,EGARAYNOIA,New York,555-1236-1342
+Linda,Johnson,130 Main St,WZFOFTWJMX,Houston,555-1576-1219
+Bob,Moore,402 Main St,CEKVCAATIW,New York,555-1062-1669
+Bob,Johnson,543 Main St,YXMRICFLFI,Phoenix,555-1677-1108
+Alice,Davis,987 Main St,AFDEMHJTQH,Phoenix,555-1091-1272
+Tom,Taylor,760 Main St,UASFYQWJME,Chicago,555-1333-1414
+John,Moore,620 Main St,KOLIXUWIXY,Houston,555-1853-1832
+Alice,Wilson,590 Main St,DFDWQWMGKA,Houston,555-1049-1532
+Maria,Miller,34 Main St,KNFMRGBYSK,Chicago,555-1430-1747
+John,Jones,851 Main St,VOYESMDQZJ,Houston,555-1217-1619
+Maria,Brown,110 Main St,FTOLMVVTBU,Los Angeles,555-1528-1455
+Mark,Johnson,64 Main St,DMBZAHWIPF,Chicago,555-1286-1367
+Lucy,Williams,484 Main St,RHMVPIOMQF,Chicago,555-1498-1928
+Alice,Jones,92 Main St,TIEFWHZESE,Chicago,555-1628-1632
+Maria,Wilson,814 Main St,JUBMYPVNHT,Phoenix,555-1566-1786
+Bob,Wilson,679 Main St,GYBJBUWWST,Phoenix,555-1211-1686
+Jane,Johnson,256 Main St,XXXNQCOVJQ,Los Angeles,555-1815-1038
+David,Davis,661 Main St,WXXRYERCCR,Chicago,555-1566-1495
+David,Smith,624 Main St,OCYJLRTPDW,Chicago,555-1084-1782
+Tom,Davis,781 Main St,ZHLUCVAFMK,Los Angeles,555-1209-1631
+Lucy,Williams,171 Main St,YRVMVAQDHQ,New York,555-1794-1367
+Jane,Davis,495 Main St,TMMCXOIGMP,Chicago,555-1841-1887
+Bob,Miller,30 Main St,ETXGACNZMN,Phoenix,555-1919-1619
+Jane,Moore,203 Main St,XHDEXZYAKB,Chicago,555-1434-1272
+Jane,Taylor,243 Main St,SJNWIZJPOS,Phoenix,555-1009-1572
+Linda,Jones,311 Main St,UAVFILHGAH,New York,555-1832-1970
+Linda,Johnson,586 Main St,UXWPCSQRCM,Chicago,555-1966-1000
+John,Wilson,688 Main St,DMHWQTWDRU,Los Angeles,555-1453-1988
+Bob,Davis,621 Main St,OAXYKIMQHD,Phoenix,555-1331-1811
+Lucy,Brown,64 Main St,DJMLAUXWJM,New York,555-1785-1770
+Jane,Smith,224 Main St,WSSJMMQFNP,Chicago,555-1170-1584
+Tom,Jones,216 Main St,EVZVTLGQKA,Houston,555-1596-1765
+Maria,Smith,240 Main St,TRGCJATXHB,Houston,555-1912-1630
+David,Davis,453 Main St,OUEFRKCCIR,Phoenix,555-1918-1864
+Lucy,Moore,424 Main St,QOQPJTYSRX,Phoenix,555-1910-1145
+Mark,Davis,579 Main St,UDJZSYBLLA,Chicago,555-1749-1735
+John,Taylor,635 Main St,XPHBEECHVF,Los Angeles,555-1422-1408
+Jane,Taylor,598 Main St,LVIDITWSBD,Phoenix,555-1474-1700
+John,Miller,588 Main St,IQMJQKVJGU,Phoenix,555-1980-1134
+David,Taylor,117 Main St,XIPJIERHMM,New York,555-1385-1351
+Jane,Brown,438 Main St,AHDJNWEUSM,New York,555-1165-1538
+John,Taylor,40 Main St,KNDVZALPRL,Los Angeles,555-1808-1480
+Jane,Smith,225 Main St,JFAQFRFPSR,New York,555-1047-1060
+Bob,Davis,850 Main St,QFUPDPKPBL,Los Angeles,555-1368-1059
+Mark,Taylor,493 Main St,BZUMHRTKZF,New York,555-1815-1460
+Lucy,Miller,860 Main St,QGSQNTZXFM,New York,555-1162-1560
+Bob,Williams,399 Main St,DCGKCBVYNS,Chicago,555-1369-1869
+Jane,Williams,347 Main St,HWCQGBPMNO,Chicago,555-1143-1352
+Lucy,Johnson,405 Main St,DCURARBMON,Houston,555-1540-1302
+David,Johnson,297 Main St,YKMONTDQHK,Phoenix,555-1795-1958
+Lucy,Smith,667 Main St,AFYZCGGLBL,Chicago,555-1865-1712
+Maria,Wilson,20 Main St,OMHFEFGQFB,New York,555-1776-1035
+John,Taylor,23 Main St,YXCLGQQQFS,Los Angeles,555-1058-1730
+Tom,Wilson,685 Main St,KNUIGXQNNF,New York,555-1156-1341
+Alice,Williams,668 Main St,HZUNHDIVBL,New York,555-1572-1506
+Lucy,Williams,406 Main St,AYPIMOWFVK,Chicago,555-1264-1295
+Jane,Davis,750 Main St,SRGLRRTOVW,Houston,555-1691-1377
+Alice,Wilson,792 Main St,UJEVBPVLDD,Chicago,555-1025-1449
+Jane,Jones,111 Main St,ZPSZZIPACQ,Houston,555-1039-1492
+Maria,Williams,449 Main St,YSQDGDPMZO,New York,555-1503-1236
+David,Smith,249 Main St,AOMWKXZAXV,Houston,555-1696-1519
+Tom,Wilson,31 Main St,KXHMMUEKAA,Houston,555-1979-1243
+Maria,Davis,757 Main St,IITMMPGHOX,Houston,555-1707-1432
+Linda,Taylor,280 Main St,EAZLIPAOBN,Houston,555-1809-1048
+Linda,Smith,74 Main St,KHQREAGZGD,New York,555-1678-1019
+John,Miller,55 Main St,QJLNACAAXR,Phoenix,555-1885-1446
+Linda,Jones,562 Main St,HYQEJXSTJL,New York,555-1254-1898
+David,Taylor,440 Main St,CDAMSDCVXT,Los Angeles,555-1869-1940
+Tom,Brown,480 Main St,PJRADIJHVO,Los Angeles,555-1935-1827
+Lucy,Jones,30 Main St,EZDVFFKFUX,Houston,555-1933-1035
+Jane,Brown,694 Main St,YEFPTRUYJF,Houston,555-1089-1719
+Jane,Jones,981 Main St,ISILDRYBMX,New York,555-1402-1796
+David,Jones,525 Main St,RYGXNGOUNM,Phoenix,555-1269-1702
+Tom,Johnson,97 Main St,GCBQACLVXR,Phoenix,555-1620-1072
+Tom,Moore,811 Main St,XXGHXVJBPB,Phoenix,555-1224-1995
+Alice,Williams,991 Main St,AVYRFWOVZL,Houston,555-1531-1488
+Jane,Moore,93 Main St,XJPPEMRJMW,Phoenix,555-1000-1619
+Lucy,Wilson,563 Main St,HTQRLRKGPR,Houston,555-1560-1564
+Bob,Moore,315 Main St,DLBUINAMQI,Los Angeles,555-1013-1907
+Alice,Moore,100 Main St,GBPVYDNXBE,Los Angeles,555-1758-1137
+Tom,Davis,212 Main St,QCQKTINIGC,Houston,555-1302-1608
+Jane,Davis,638 Main St,AERTIWOAMG,Los Angeles,555-1151-1192
+Mark,Miller,8 Main St,WTKWGFNQIZ,New York,555-1090-1136
+Mark,Williams,749 Main St,NDNDISIIDB,Houston,555-1120-1480
+Maria,Smith,920 Main St,BIZLUANXND,Houston,555-1746-1878
+Bob,Jones,97 Main St,JXHPBTUKMU,Houston,555-1056-1439
+Alice,Davis,573 Main St,ORKVUROPKH,Chicago,555-1856-1157
+Bob,Williams,832 Main St,IWUMOSLATE,Chicago,555-1382-1836
+John,Smith,401 Main St,ZCAYQGQFWW,Los Angeles,555-1777-1679
+Jane,Wilson,563 Main St,GLNLAAWBMB,Phoenix,555-1166-1807
+Jane,Williams,592 Main St,OSQQHSNXUB,Chicago,555-1935-1508
+Maria,Moore,985 Main St,FBLAZGBEUY,Chicago,555-1841-1248
+Mark,Jones,870 Main St,RSJFRLXOGM,Chicago,555-1096-1955
+Linda,Jones,812 Main St,SVRZCNZTBA,New York,555-1189-1655
+Maria,Jones,801 Main St,OCHMXHIMFI,New York,555-1642-1192
+Lucy,Smith,735 Main St,QHXIIQREQW,Los Angeles,555-1506-1224
+Lucy,Jones,54 Main St,CKOZLBNAQN,Phoenix,555-1525-1985
+Jane,Smith,334 Main St,USMZEXGGHZ,Los Angeles,555-1183-1162
