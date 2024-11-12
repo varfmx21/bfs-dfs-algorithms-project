@@ -62,10 +62,9 @@ vector<vector<int>> crearMatriz(const vector<Persona> &persona, int max) {
         for (size_t j = i + 1; j < n; ++j) {
             int distance = hammingDistance(persona[i].adn, persona[j].adn);
 
-            // Only connect if the distance is valid and below the threshold
             if (distance != -1 && distance <= max) {
                 matriz[i][j] = 1;
-                matriz[j][i] = 1; // Since the graph is undirected
+                matriz[j][i] = 1;
             }
         }
     }
