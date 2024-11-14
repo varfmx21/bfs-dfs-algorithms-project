@@ -94,7 +94,7 @@ int BFS(const vector<vector<int>> &matriz, const vector<Persona> &personas, cons
         cola.pop();
 
         if (personas[actual].adn == adnObjetivo) {
-            cout << "BFS encontró la persona: " << personas[actual].nombre << " " << personas[actual].apellido << '\n';
+            cout << "BFS encontro la persona: " << personas[actual].nombre << " " << personas[actual].apellido << '\n';
             return actual;
         }
 
@@ -106,7 +106,7 @@ int BFS(const vector<vector<int>> &matriz, const vector<Persona> &personas, cons
         }
     }
 
-    cout << "BFS no encontró coincidencia.\n";
+    cout << "BFS no encontro coincidencia.\n";
     return -1;
 }
 
@@ -122,7 +122,7 @@ int DFS(const vector<vector<int>> &matriz, const vector<Persona> &personas, cons
         pila.pop();
 
         if (personas[actual].adn == adnObjetivo) {
-            cout << "DFS encontró la persona: " << personas[actual].nombre << " " << personas[actual].apellido << '\n';
+            cout << "DFS encontro la persona: " << personas[actual].nombre << " " << personas[actual].apellido << '\n';
             return actual;
         }
 
@@ -134,7 +134,7 @@ int DFS(const vector<vector<int>> &matriz, const vector<Persona> &personas, cons
         }
     }
 
-    cout << "DFS no encontró coincidencia.\n";
+    cout << "DFS no encontro coincidencia.\n";
     return -1;
 }
 
@@ -151,7 +151,11 @@ int main() {
 
     vector<vector<int>> matriz = crearMatriz(personas, max);
 
-    string adnObjetivo = "CMZGLIQDKJ"; // Cambiar por el ADN de búsqueda
+    string adnObjetivo;
+
+    cout<<"Ingresa el ADN de la persona: ";
+    cin>>adnObjetivo;
+    cout<<"Buscando en la base de datos..."<<'\n';
 
     auto inicioBFS = chrono::high_resolution_clock::now();
     BFS(matriz, personas, adnObjetivo);
